@@ -1,5 +1,4 @@
 from statistics import mean, variance
-from unicodedata import decimal
 import numpy as np
 mylist = [2, 6, 2, 8, 4, 0, 1, 5, 7]
 
